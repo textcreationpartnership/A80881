@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter written by Colonel Cromvvel, to the committee at Cambridge. Dated on Monday last being the 31 of Iuly. Concerning the raising of the siege at Gainsborough, with the names of those that were slayne, and the number of the prisoners taken. This is licensed according to order.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80881</idno>
+            <idno type="STC">Wing C7051</idno>
+            <idno type="STC">Thomason E2_39</idno>
+            <idno type="STC">ESTC R1484</idno>
+            <idno type="EEBO-CITATION">99859745</idno>
+            <idno type="PROQUEST">99859745</idno>
+            <idno type="VID">155371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155371)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E63[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter written by Colonel Cromvvel, to the committee at Cambridge. Dated on Monday last being the 31 of Iuly. Concerning the raising of the siege at Gainsborough, with the names of those that were slayne, and the number of the prisoners taken. This is licensed according to order.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Blackmore, at the Angell in Pauls Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August the 3. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gainsborough (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155371:1" rendition="simple:additions"/>
+            <p>The Copy of a LETTER Written by COLONEL CROMVVEL, To the Committee at Cambridge.</p>
+            <p>Dated on Monday laſt being the 31 of <hi>Iuly.</hi>
+            </p>
+            <p>Concerning the raiſing of the Siege at Gainſ<g ref="char:EOLhyphen"/>borough, with the Names of thoſe that were Slayne, and the Number of the Priſoners taken.</p>
+            <p>
+               <hi>This is licenſed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Edward Blackmore,</hi> at the Angell in <hi>Pauls</hi> Church-Yard. <hi>Auguſt</hi> the 3. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155371:2"/>
+            <pb n="1" facs="tcp:155371:2"/>
+            <head>The Coppy of a Letter written by Colonel Cromwel, to the Committee at Camebridge, the 31 of July, 1643.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>IT hath pleaſed the Lord, to give your Servant and Souldiers a nota<g ref="char:EOLhyphen"/>ble Victory now at <hi>Gainsborow;</hi> I marched after the taking of <hi>Burl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> houſe upon Wedneſday to <hi>Gratham,</hi> where I met about <hi>300.</hi> Horſe and Dragoneers of <hi>Nottingham,</hi> with theſe by agreement with the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncolneers, we met at <hi>North-Scarle,</hi> which is about ten miles from <hi>Gainsborow</hi> upon Thurſday in the eve<g ref="char:EOLhyphen"/>ning, where we tarried untill two of the clocke in the morning, and then with our whole body, advanced towards <hi>Gainsbo<g ref="char:EOLhyphen"/>row,</hi> about a mile and a halfe from the Towne. We met a forlorne hope of the Enemy, of neere a <hi>100.</hi> Horſe, our Dra<g ref="char:EOLhyphen"/>goneers laboured to beat them back, but
+<pb n="2" facs="tcp:155371:3"/> not a lighting of their Horſes, the Ene<g ref="char:EOLhyphen"/>my charged them, and beat ſome foure or five of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moff th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Horſe, our Horſe char<g ref="char:EOLhyphen"/>ged them, and made them retire unto their maine body: Wee advanced, and came to the bottome of a ſtéepe hill, up<g ref="char:EOLhyphen"/>on which the Enemy ſtood, we cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not well get up but by ſome tracts, which our men aſſaying to doe, the body of the Enemy endeavoured to hinder, wherein we prevailed, and got the top of the hill, this was done by the Lincolneérs, who had the Vanguard when we all recove<g ref="char:EOLhyphen"/>red the top of the hill, we ſaw a great bo<g ref="char:EOLhyphen"/>dy of the Enemies Horſe, facing of us at about a Muskets ſhot or leſſe diſtance, and a good reſerve of a full Regiment of Horſe behind it, we end<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avoured to put our men into as good order as we could, the Enemy in the meane time advanced towards us, to tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us at diſ-advantage, but in ſuch order as we were, we char<g ref="char:EOLhyphen"/>ged their great body. I having the right wing, we came up Horſe to Horſe,
+<pb n="3" facs="tcp:155371:3"/> where we diſputed it with our Swords and Piſtols a pretty time, all keéping cloſe order, ſo that one could not breake the other: at laſt they a little ſhrinking our men, perceiving it, preſſed in upon them, and immediately routed this whole body, ſome flying on one ſide, others on the other of the Enemies reſerve, and our men perſuing them, had chaſe and exe<g ref="char:EOLhyphen"/>cution about five or ſix miles. I percei<g ref="char:EOLhyphen"/>ving this body which was the reſerve, ſtanding ſtill unbroken, kept backe my Major <hi>Whaley</hi> from the chace, and with mine owne Troope and the other of my Regiment, in all being three Troopes, we got into a body, in this reſerve ſtood G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerall <hi>Cavendiſh,</hi> who one while faced me, and h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r while faced foure of the <hi>Lin<g ref="char:EOLhyphen"/>colne</hi> T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oopes, which was all of ours ſtood upon the place, the reſt being inga<g ref="char:EOLhyphen"/>ged in the chace, at laſt the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerall char<g ref="char:EOLhyphen"/>ged the Lincolneérs and routed them, I immediately fell on his reare with my threé Troopes, which did ſo aſtoniſh him
+<pb n="4" facs="tcp:155371:4"/> that he gave over the chace, and would faine have delivered himſelfe from me, but I preſſing on, forced them done a a hill, having good execution of them, and be<g ref="char:EOLhyphen"/>low the hill drove the General with ſome of his Souldiers into a Quagmire, where my Captaine Lieutenant ſlew him, with a thruſt under his ſhort ribs, the reſt of the body was wholly routed, not one man ſtaying upon the place.</p>
+            <p>Weé after the defeate which was ſo totall releived the Towne, with ſuch powder and proviſion as we brought, which done we had notice that there were <hi>6.</hi> Troops of Horſe and <hi>300</hi> foote on the other ſide of the Towne, about a mile of us, we deſired ſome foote of my Lord <hi>Willoughbyes,</hi> about <hi>400.</hi> And with our Horſe and their Foote marched towards them, when we came towards the place where their Horſe ſtood, wee beat back with my Tropes about <hi>2</hi> or <hi>3</hi> Troops of the Enemies, who retired into a ſmall village, at the bottome of
+<pb n="5" facs="tcp:155371:4"/> the hill, when wee recovered the hill, we ſawin the bottome about a quarter of a mile from us, a Regiment of Foote, af<g ref="char:EOLhyphen"/>ter that another, after that <hi>New-Caſtles</hi> owne Regiment, conſiſting in all, of a<g ref="char:EOLhyphen"/>bout fifty Foote Colours, and a great body of Horſe which indeéd was, <hi>New-Caſtles</hi> army: which coming ſo unexpected<g ref="char:EOLhyphen"/>ly, put us to new conſultations: My Lord <hi>VVilloughby</hi> and I being in the Towne, agreed to call of our Foote, I went to bring them off, but before I re<g ref="char:EOLhyphen"/>turned, divers of the Foote were enga<g ref="char:EOLhyphen"/>ged, the Enemy advancing with his whole body, our Foote retreated in ſome diſorder, and with ſome loſſe got the Towne, where now they are, our Horſe alſo came off, with ſome trouble being wearied with the long fight and their Horſes tired yet faced the Enemies freſh Horſe and by ſeverall removes got off, without the loſſe of one man, the Enemy following the Reare with a great body, the honour of this retreat is due to God,
+<pb n="6" facs="tcp:155371:5"/> as alſo all the reſt, Major <hi>Whalley,</hi> did in this carry himſelfe withall gallantly becomming a G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntleman and a Chriſti<g ref="char:EOLhyphen"/>an. Thus have you this true Relation as ſhort as I could, what you are to do upon it is n xt to be conſidered, the Lord direct you what to doe.</p>
+            <closer>
+               <dateline>
+                  <hi>Huntington.</hi>
+                  <date>
+                     <hi>Iuly, 31. 1643.</hi>
+                  </date>
+               </dateline>
+               <salute>Gentlemen</salute> 
+               <signed>
+                  <hi>I am Your faithfull seruant <hi>Oliver Cromwell.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_dead">
+            <head>A Liſt of thoſe that were ſlaine and taken at the rayſing of the Seidge at Gainsborow, on Friday laſt, by Colonell Cromwell.</head>
+            <list>
+               <item>General King ſlaine, as is ſuppoſed.</item>
+               <item>General C vendiſh certainly ſlaine.</item>
+               <item>Colonel Beton, ſlaine.</item>
+               <item>A Lieutenant Colonel, ſlaine:</item>
+               <item>A Serjeant Major. ſlaine,</item>
+               <item>Captaine Huſſey, ſlaine.</item>
+               <item>100 Dead upon the place.</item>
+               <item>150. Priſoners taken.</item>
+               <item>A total defeate not ten men being ſeene ſtand in a body.</item>
+               <item>200. ſlaine in the perſute of them.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
